@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "234103490708",
+    "firebase_url": "https://quick-quiz-1882c.firebaseio.com",
+    "project_id": "quick-quiz-1882c",
+    "storage_bucket": "quick-quiz-1882c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234103490708:android:5056d04a44d6d8d6de0c81",
+        "android_client_info": {
+          "package_name": "com.renjith.quickquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234103490708-gjtg930bislg6rbr2opr87c4h3d3n35b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp2t_fVbqnivM5iGv4hlP_QXqRFUfu4Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234103490708-gjtg930bislg6rbr2opr87c4h3d3n35b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
